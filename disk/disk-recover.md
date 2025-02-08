@@ -316,8 +316,6 @@ ds.chat("怎么看我是MBR分区还是GPT分区？")
 <span style="color: #808000; text-decoration-color: #808000; font-weight: bold"> • </span>如果是 <span style="color: #008080; text-decoration-color: #008080; background-color: #000000; font-weight: bold">present</span>，表示分区表类型是 GPT。                                                                          
 <span style="color: #808000; text-decoration-color: #808000; font-weight: bold"> • </span>如果是 <span style="color: #008080; text-decoration-color: #008080; background-color: #000000; font-weight: bold">not present</span>，表示分区表类型是 MBR。                                                                      
 
-                                                <span style="color: #7f7f7f; text-decoration-color: #7f7f7f; font-weight: bold">方法 3：使用 </span><span style="color: #7fbfbf; text-decoration-color: #7fbfbf; background-color: #000000; font-weight: bold">parted</span>                                                
-
 运行以下命令：                                                                                                     
 
 <span style="background-color: #272822">                                                                                                                   </span>
